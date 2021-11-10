@@ -14,5 +14,6 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+    'no-undef': 'off'
   }
 }
